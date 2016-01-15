@@ -1,0 +1,6 @@
+network.host: 0.0.0.0
+cluster.name: es-cluster
+discovery.zen.ping.multicast.enabled: on
+discovery.zen.ping.multicast.ttl: 30
+script.engine.groovy.inline.update: on
+
